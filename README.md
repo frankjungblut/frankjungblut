@@ -9,22 +9,23 @@
 </div>
 <div align="center">
   
-:smile: Olá! 
-Sou formado em Sistemas de Informação pela UCEFF :mortar_board: , atualmente participo do bootcamp DevClub 🥑, que está me proporcionando aprendizados incríveis e me deixando cada vez mais apaixonado pela área. :star2: :sparkling_heart:
+:smile: Hi!
+
+I graduated in Information Systems from UCEFF. :mortar_board: , I am currently attending the DevClub bootcamp. 🥑, which is giving me amazing opportunities to learn and making me even more excited about the field. :star2: :sparkling_heart:
 </div>
 
 ---
 
-Atualmente estou aprendendo:<br><br>
+At the moment, I am learning:<br><br>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Java Script Badge" width="150px"/>
 
 ---
 
-É um prazer ter você aqui! Fique à vontade para explorar meus projetos e, caso sinta vontade de bater um papo, me chama nas redes sociais. Vou adorar trocar ideias e aprender com você! :rocket:
+It's a pleasure to have you here! Feel free to explore my projects and, if you feel like chatting, call me on social networks. I will love to exchange ideas and learn with you! :rocket:
 
 ---
 
-Redes Sociais:<br><br>
+Social Media:<br><br>
 
 <div align="center">
 
