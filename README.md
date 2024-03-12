@@ -29,7 +29,7 @@ Social Networks:<br><br>
 
 <div align="center">
 
-<a href="www.linkedin.com/in/frank-schwertz-jungblut-462902178" target="_blank">
+<a href="https://encurtador.com.br/bDGY6" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Logo" width="150px"/>
 </a><br>
 <a href="https://www.instagram.com/franksjungblut/"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Logo" width="150px"/></a><br>
