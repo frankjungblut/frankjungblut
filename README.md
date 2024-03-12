@@ -25,7 +25,7 @@ It's a pleasure to have you here! Feel free to explore my projects and, if you f
 
 ---
 
-Social Media:<br><br>
+Social Networks:<br><br>
 
 <div align="center">
 
