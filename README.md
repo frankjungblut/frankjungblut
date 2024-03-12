@@ -18,3 +18,6 @@ Redes Sociais:<br><br>
 <br>
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankjungblut&hide_progress=true)
+<br>
+<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=frankjungblut&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
