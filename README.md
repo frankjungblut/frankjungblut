@@ -45,7 +45,7 @@ Social Networks:<br><br>
 ![Frank Jungblut GitHub stats](https://github-readme-stats.vercel.app/api?username=frankjungblut&show_icons=true&theme=transparent)
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankjungblut&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frankjungblut&layout=compact)
 <br>
 <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=frankjungblut&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
