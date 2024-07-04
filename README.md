@@ -40,11 +40,11 @@
 
 ### Social Networks
 <div align="center">
-  <a href="https://www.linkedin.com/in/frankjungblut/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Logo" width="150px"/>
+  <a href="https://www.linkedin.com/in/frank-schwertz-jungblut/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn Logo" width="150px" height="42px"/>
   </a>
   <a href="https://www.instagram.com/franksjungblut/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Logo" width="150px"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Logo" width="150px" height="42px"/>
   </a>
 </div>
 
